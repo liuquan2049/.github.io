@@ -1682,7 +1682,7 @@ pre .javascript .function {
 }
 .links-of-author a {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: center;
   margin-right: 10px;
   margin-bottom: 10px;
   border-bottom-color: #555;
@@ -1696,7 +1696,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #70ffa3;
+  background: #ff0d5c;
 }
 .links-of-blogroll {
   font-size: 13px;
